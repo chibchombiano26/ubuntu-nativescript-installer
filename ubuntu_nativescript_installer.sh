@@ -17,7 +17,7 @@ NODE_PATH=/opt/node
 PARENT_USER=$(who am i | awk '{print $1}')
 
 # Latest Android, Node.js as of 01-27-2016
-ANDROID_SDK_X64="http://dl.google.com/android/android-sdk_r24.4.1-linux.tgz"
+ANDROID_SDK_X64="https://dl.google.com/android/android-sdk_r24.4.1-linux.tgz"
 NODE_X64="https://nodejs.org/download/release/v4.2.6/node-v4.2.6-linux-x64.tar.gz"
 
 # Add i386 architecture
