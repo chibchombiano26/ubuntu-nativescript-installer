@@ -43,3 +43,9 @@ Telerik NativeScript - [http://www.nativescript.org](http://www.nativescript.org
 Node.js - [http://www.nodejs.org](http://www.nodejs.org)
 
 Android - [http://developer.android.com](http://developer.android.com)
+
+
+--
+find android path, showed when type android on command line (Left corner)
+
+Then  run sudo ./android on android-sdk tools
